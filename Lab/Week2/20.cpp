@@ -3,6 +3,7 @@ using namespace std;
 
 main(){
 
+
  system("color D");
 cout<<"                                .........                      @@@@@    @@@@@@                        ............. "<<endl;
 cout<<"                                .........                     @     @  @      @                       ............   "<<endl;
