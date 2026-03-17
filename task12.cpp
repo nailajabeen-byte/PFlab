@@ -6,7 +6,7 @@ int salary =10000;
 int laptop=50000;
 advance=10000*6*0.50;
 if (advance<50000){
-    cout<<"sorry bhai";
+    cout<<"sorry bhai"<<endl;
 }
  
     

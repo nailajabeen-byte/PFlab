@@ -1,22 +1,13 @@
 #include<iostream>
 using namespace std;
 main(){
-int discount,final ;
-    cout<<"enter country name"<<endl;
-    string country_name;
-    cin>>country_name;
-    cout<<"enter ticket price"<<endl;
-    int price;
-    cin>>price;
-    if(country_name=="ireland"){
-    discount= price*0.10;
-    final=price-discount;
-    cout<<"asani hai:"<<final;
+    int speed;
+    cout<<"car speed"<<endl;
+    cin>>speed;
+    if(speed<=100){
+        cout<<"kya batt hai bhai";
     }
     else{
-    discount=0.05*price;
-    final=price-discount;
-    
-    cout<<"asani hai:"<<final;
+        cout<<"bhai sabar sa kam lyn";
     }
 }

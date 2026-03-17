@@ -1,5 +1,5 @@
-space std;#include<iostream>
-using name
+#include<iostream>
+using namespace std;
 main(){
     cout<<"enter the name";
     string name;
