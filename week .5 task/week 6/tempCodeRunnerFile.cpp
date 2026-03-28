@@ -1,0 +1,4 @@
+<<"mimi number"<<mini<<endl;
+
+}
+}
